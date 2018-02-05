@@ -44,3 +44,15 @@ input, textarea, select, .uneditable-input {
 input {
   height: auto !important;
 }
+
+/* Background */
+.jumbotron{
+	background-color: rgba(201, 76, 76, 0.01)
+}
+
+body{
+	background-image: url(https://s1.qwant.com/thumbr/0x0/9/6/039c9d4d32d8c6b6875d77c179dc50/b_1_q_0_p_0.jpg?u=https%3A%2F%2Fnotairemontreal.files.wordpress.com%2F2012%2F10%2Fimage-secret.jpg&q=0&b=1&p=0&a=1);	
+	background-size:     cover;
+    background-repeat:   no-repeat;
+    background-position: center center;
+}
