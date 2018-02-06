@@ -45,6 +45,15 @@ input {
   height: auto !important;
 }
 
+.checkbox {
+  margin-top: -10px;
+  margin-bottom: 10px;
+  span {
+    margin-left: 20px;
+    font-weight: normal;
+  }
+}
+
 /* Background */
 .jumbotron{
 	background-color: rgba(201, 76, 76, 0.01)
